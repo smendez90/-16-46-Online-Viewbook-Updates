@@ -94,3 +94,11 @@ html[xmlns] .slides {display: block;}
   .flex-direction-nav .flex-prev { opacity: 1; left: 10px;}
   .flex-direction-nav .flex-next { opacity: 1; right: 10px;}
 }
+
+/* Title for index */
+.img-responsive-intro {
+	margin: auto;
+	width:100%;
+	max-width: 821px;
+	padding-bottom: 35px;
+	}
