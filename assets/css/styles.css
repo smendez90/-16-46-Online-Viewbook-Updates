@@ -535,8 +535,8 @@ select {
 }
 /* ======= Why ======= */
 .why {
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .why .title {
   font-size: 48px;
@@ -550,7 +550,7 @@ select {
 }
 .why .item {
   padding: 90px 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 0px solid #eee;
 }
 .why .item.last-item {
   border-bottom: none;
