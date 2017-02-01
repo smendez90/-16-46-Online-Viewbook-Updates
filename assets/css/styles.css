@@ -549,14 +549,14 @@ select {
   font-size: 18px;
 }
 .why .item {
-  padding: 90px 0;
+  padding: 30px 0;
   border-bottom: 0px solid #eee;
 }
 .why .item.last-item {
   border-bottom: none;
 }
 .why .item .title {
-  font-size: 26px;
+  font-size: 3em;
   color: #cc0000;
   margin-top: 0;
   margin-bottom: 15px;
@@ -2137,8 +2137,8 @@ select {
   text-align: center;
 }
 .story-section .team .title {
-  color: #444;
-  font-size: 28px;
+  color: #cc000;
+  font-size: 3em;
 }
 .story-section .team .member {
   margin-bottom: 30px;
@@ -3181,9 +3181,10 @@ select {
   .header.navbar-fixed-top {
     position: relative;
   }
+	/*
   .blog-slider {
     margin-top: 0;
-  }
+  } */
   .blog {
     margin-top: 0;
   }
@@ -3270,7 +3271,7 @@ select {
     padding-top: 80px;
   }
   .story-section {
-    padding-top: 90px;
+    padding-top: 1px;
   }
   .contact-section {
     padding-top: 45px;
