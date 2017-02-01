@@ -1652,12 +1652,13 @@ select {
   color: #fff;
 }
 .blog-slider .flex-caption .title {
-  font-size: 42px;
+  font-size: 60px;
   text-align: center;
   max-width: 800px;
   margin: 0 auto;
   margin-bottom: 15px;
   margin-top: 0;
+	background-color: rgba(204,0,0,0.45);
 }
 .blog-slider .flex-caption .title a:hover {
   text-decoration: none;
@@ -1670,9 +1671,13 @@ select {
 }
 .blog-slider .flex-caption a.more-link {
   color: #fff;
+		background-color: rgba(204,0,0,0.45);
+
 }
 .blog-slider .flex-caption a.more-link:hover {
   color: #cc0000;
+		background-color: rgba(204,0,0,0.45);
+
 }
 /* Blog homepage */
 .blog-list .post {
