@@ -1592,6 +1592,20 @@ select {
   -o-background-size: cover;
   background-size: cover;
 }
+.blog-slider .slide.slide-7 {
+  background: #253340 url('../images/blog/post-7.jpg') no-repeat 50% top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.blog-slider .slide.slide-8 {
+  background: #253340 url('../images/blog/post-8.jpg') no-repeat 50% top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 .blog-slider .flex-control-nav {
   bottom: 15px;
   z-index: 10;
