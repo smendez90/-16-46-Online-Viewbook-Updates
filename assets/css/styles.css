@@ -856,8 +856,8 @@ select {
 }
 /* ======= Features tabs ======= */
 .features-tabbed {
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .features-tabbed .title {
   font-size: 36px;
@@ -904,7 +904,7 @@ select {
   font-size: 14px;
 }
 .features-tabbed .tab-content .figure {
-  margin-bottom: 60px;
+  margin-bottom: 20px;
 }
 .features-tabbed .tab-content .figure img {
   -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
@@ -1493,7 +1493,7 @@ select {
 }
 /* ======= Map section ======= */
 .map-section {
-  padding-top: 80px;
+  padding-top: 0px;
   padding-bottom: 80px;
 }
 .map-section .title {
@@ -2979,7 +2979,7 @@ select {
     padding: 5px;
   }
   .features-tabbed {
-    padding-top: 160px;
+    padding-top: 0px;
   }
   .access-section {
     padding-left: 0;
@@ -3456,7 +3456,7 @@ select {
     padding-top: 160px;
   }
   .story-section {
-    padding-top: 170px;
+    padding-top: 1px;
   }
   .contact-section {
     padding-top: 0px;
