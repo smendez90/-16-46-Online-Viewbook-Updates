@@ -563,7 +563,7 @@ select{appearance:none;-webkit-appearance:none;}
 .has-full-screen-bg.access-page .upper-wrapper{background:#384d60;}
 .access-section{padding-top:15px;}
 .headline-bg + .section,
-.bg-slider-wrapper + .section{padding-top:45px;}
+.bg-slider-wrapper + .section{padding-top:95px;}
 .pricing .intro{margin-bottom:45px;}
 .features-video iframe{padding:5px;}
 .features-tabbed{padding-top:0px;}
