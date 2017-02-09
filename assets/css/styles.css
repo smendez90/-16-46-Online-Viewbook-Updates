@@ -153,7 +153,7 @@ select{appearance:none;-webkit-appearance:none;}
 .press .press-list li img{-webkit-opacity:0.6;-moz-opacity:0.6;opacity:0.6;}
 .press .press-list li:hover img{-webkit-opacity:1;-moz-opacity:1;opacity:1;}
 .press .press-lead .title{font-size:18px;margin-bottom:15px;}
-.cta-section{background:#253340 url('../images/background/bg-footer-1.jpg') no-repeat left top;background-size:cover;min-height:420px;color:#fff;padding-top:80px;border:none;}
+.cta-section{background:#253340 url('../images/background/bg-footer-1.jpg') no-repeat left top;background-size:cover;min-height:420px;color:#fff;padding-top:80px;border:none;margin-top: 45px;}
 .cta-section.pricing-cta-section{background-image:url('../images/background/bg-students.jpg');}
 .cta-section.contact-cta-section{background-image:url('../images/background/bg-footer-3.jpg');}
 .cta-section .title{font-size:36px;font-weight:300;margin-top:0;margin-bottom:60px;}
