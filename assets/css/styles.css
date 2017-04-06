@@ -1,5 +1,5 @@
-body{font-family:'Roboto', arial, sans-serif;color:#444;font-size:16px;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
-p{margin-bottom:15px;line-height:1.5;}
+body{font-family: 'Merriweather', serif;color:#444;font-size:16px;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
+p{font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; margin-bottom:15px;line-height:1.5;}
 a{color:#cc0000;-webkit-transition:all 0.4s ease-in-out;-moz-transition:all 0.4s ease-in-out;-ms-transition:all 0.4s ease-in-out;-o-transition:all 0.4s ease-in-out;}
 a:hover{text-decoration:underline;color:#e74124;}
 a:focus{text-decoration:none;}
