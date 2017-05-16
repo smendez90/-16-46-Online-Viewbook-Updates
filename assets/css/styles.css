@@ -634,7 +634,7 @@ select{appearance:none;-webkit-appearance:none;}
 .promo .btn-link{margin-top:15px;}
 .why .item .content{margin-bottom:0px;}
 .why .control{top:128px;margin-left:-45px;}
-.why .item .title{margin-bottom:30px;text-align:center;font-family: merriweather serif;font-style: italic;}
+.why .item .title{margin-bottom:30px;text-align:center;}
 .apps-section .phone-holder{-webkit-background-size:280px auto;-moz-background-size:280px auto;-o-background-size:280px auto;background-size:280px auto;}
 .apps-section .phone-holder .screenshot{width:242px;top:66px;}
 .footer-col{margin-bottom:30px;}
